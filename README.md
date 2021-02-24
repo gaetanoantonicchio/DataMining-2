@@ -1,4 +1,4 @@
-# DataMining-2
+# Data Mining 2
 Repository for "Data Mining - Advanced Topics and Applications" project exam.
 
 This project consists in analysing and processing audio signals, employing advanced data mining/machine learning algorithms on the FMA dataset. 
