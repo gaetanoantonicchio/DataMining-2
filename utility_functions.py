@@ -4,9 +4,8 @@ import numpy as np
 def report(results, n_top=3):
     """
     Return the results n_top results of a grid search
-    :param results:
-    :param n_top:
-    :return:
+    :param results: results of a gridsearch
+    :param n_top: number of best values to display
     """
     for i in range(1, n_top + 1):
         candidates = np.flatnonzero(results['rank_test_score'] == i)
