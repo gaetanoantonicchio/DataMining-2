@@ -1,4 +1,7 @@
 import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 
 def report(results, n_top=3):
@@ -17,3 +20,19 @@ def report(results, n_top=3):
                 results['std_test_score'][candidate]))
             print("Parameters: {0}".format(results['params'][candidate]))
             print("")
+
+
+def scatterPlot(x, y, algoName):
+    """
+    :param x: (Dataframe) containing features to plot
+    :param y: (Dataframe) labels
+    :param algoName: name of the algorithm (used for scatter plot title)
+    :return: scatter plot
+    """
+    tempDF = pd.DataFrame(data=x.loc[:, 0:1], index=x.index)
+    tempDF = pd.concat((tempDF, y), axis=1, join="inner")
+    tempDF.columns = ["First Vector", "Second Vector", "Label"]
+    sns.lmplot(x="First Vector", y="Second Vector", hue="Label", \
+               data=tempDF, fit_reg=False)
+    ax = plt.gca()
+    ax.set_title("Separation of Observations using " + algoName)
