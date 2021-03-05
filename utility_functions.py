@@ -7,9 +7,6 @@ import matplotlib.pyplot as plt
 def report(results, n_top=3):
     """
     Return the results n_top results of a grid search
-    :param results:
-    :param n_top:
-    :return:
     """
     for i in range(1, n_top + 1):
         candidates = np.flatnonzero(results['rank_test_score'] == i)
