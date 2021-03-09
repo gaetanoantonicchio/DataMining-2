@@ -11,4 +11,20 @@ This analysis is focused on:
 - Application of ethic principles: Explaianbility;
 
 ## Module 1
-1. Basic classification: Decision Tree | KNN 
+
+
+
+
+## Module 2
+
+
+
+
+## Module 3
+
+
+
+## Module 4
+
+
+[ Working on it ]
