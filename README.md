@@ -9,3 +9,6 @@ This analysis is focused on:
 - Time series analysis;
 - Sequential Pattern Mining and Advanced Clustering: X-Means, OPTICS and Transactional Clustering;
 - Application of ethic principles: Explaianbility;
+
+## Module 1
+1. Basic classification: Decision Tree | KNN 
