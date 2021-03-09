@@ -1,4 +1,7 @@
 # Data Mining 2
+
+![alt text](https://developer.spotify.com/assets/echonest-spotify.png) | <img width=150px src="https://www.plan4res.eu/wp-content/uploads/2018/02/University-of-Pisa-Italy.png" />
+
 Repository for "Data Mining - Advanced Topics and Applications" project exam.
 
 This project consists in analysing and processing audio signals, employing advanced data mining/machine learning algorithms on the FMA dataset. 
