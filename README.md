@@ -18,7 +18,7 @@ This analysis is focused on:
    [tracks.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/tracks_EDA.ipynb)<br>
    [genres.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/genres_EDA.ipynb)<br>
    [features.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/features_EDA.ipynb)<br>
-   [echonest.csv]()<br><br>
+   [echonest.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/echonest_EDA.ipynb)<br><br>
 2.Classification:<br>
   **Decision Tree**<br>
   **KNN**
