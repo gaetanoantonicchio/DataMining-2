@@ -14,6 +14,11 @@ This analysis is focused on:
 - Application of ethic principles: Explaianbility;
 
 ## Module 1
+1. Data Understanding & EDA
+   [tracks.csv]()
+   [genres.csv]()
+   [features.csv]()
+   [echonest.csv]()
 
 
 
