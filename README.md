@@ -16,10 +16,10 @@ This analysis is focused on:
 ## Module 1
 1. Data Understanding & EDA<br>
    [tracks.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/tracks_EDA.ipynb)<br>
-   [genres.csv]()<br>
+   [genres.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/genres_EDA.ipynb)<br>
    [features.csv]()<br>
-   [echonest.csv]()<br>
-2.Classification:
+   [echonest.csv]()<br><br>
+2.Classification:<br<
   **Decision Tree**<br>
   **KNN**
 
