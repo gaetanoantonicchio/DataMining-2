@@ -13,7 +13,7 @@ This analysis is focused on:
 - Sequential Pattern Mining and Advanced Clustering: X-Means, OPTICS and Transactional Clustering;
 - Application of ethic principles: Explaianbility;
 
-Dataset available at: [mdeff/fma](https://github.com/mdeff/fma)
+Dataset and additional info are available at: [mdeff/fma](https://github.com/mdeff/fma)
 
 ## Module 1
 1. Data Understanding & EDA<br>
