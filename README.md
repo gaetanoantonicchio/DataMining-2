@@ -14,12 +14,14 @@ This analysis is focused on:
 - Application of ethic principles: Explaianbility;
 
 ## Module 1
-1. Data Understanding & EDA
-   [tracks.csv]()
-   [genres.csv]()
-   [features.csv]()
-   [echonest.csv]()
-
+1. Data Understanding & EDA<br>
+   [tracks.csv](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/tracks_EDA.ipynb)<br>
+   [genres.csv]()<br>
+   [features.csv]()<br>
+   [echonest.csv]()<br>
+2.Classification:
+  **Decision Tree**<br>
+  **KNN**
 
 
 
