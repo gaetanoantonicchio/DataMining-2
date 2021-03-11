@@ -24,12 +24,12 @@ Dataset and additional info are available at: [mdeff/fma](https://github.com/mde
    - [years of rock]()<br>
 2. Classification: Decision Tree & KNN<br>
 
-   * **Echonest audio features**<br>
+   ___ **Echonest audio features** ___<br>
   - Binary genre classification
   - Multi genre classification
   - Song popularity classification
   - Years of Rock <br><br>
-    * **Librosa features**<br>
+    ___ **Librosa features** ____<br>
   - Binary genre classification
   - Multi genre classification
   - Song popularity classification
