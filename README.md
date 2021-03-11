@@ -21,7 +21,7 @@ Dataset and additional info are available at: [mdeff/fma](https://github.com/mde
    - [genres](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/genres_EDA.ipynb)<br>
    - [features](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/features_EDA.ipynb)<br>
    - [echonest](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/echonest_EDA.ipynb)<br>
-   - [years of rock]()<br><br>
+   - [years of rock]()<br>
 2. Classification: Decision Tree & KNN<br>
 
    * **Echonest audio features**<br>
