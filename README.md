@@ -22,13 +22,13 @@ Dataset and additional info are available at: [mdeff/fma](https://github.com/mde
    - [features](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/features_EDA.ipynb)<br>
    - [echonest](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/echonest_EDA.ipynb)<br>
    - [years of rock]()<br><br>
-2. Classification:<br>
-  2.1 **Decision Tree**<br>
+2. Classification: Decision Tree & KNN<br>
+  2.1 **Echonest audio features**<br>
   - Binary genre classification
   - Multi genre classification
   - Song popularity classification
   - Years of Rock <br><br>
-  2.2 **KNN**
+  2.2 **Librosa features**
   - Binary genre classification
   - Multi genre classification
   - Song popularity classification
