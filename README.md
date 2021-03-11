@@ -22,9 +22,27 @@ Dataset and additional info are available at: [mdeff/fma](https://github.com/mde
    - [features](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/features_EDA.ipynb)<br>
    - [echonest](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/echonest_EDA.ipynb)<br><br>
 2. Classification:<br>
-  **Decision Tree**<br>
-  **KNN**
-
+  2.1 **Decision Tree**<br>
+  - Binary genre classification
+  - Multi genre classification
+  - Song popularity classification
+  - Eras of Rock <br><br>
+  2.2 **KNN**
+  - Binary genre classification
+  - Multi genre classification
+  - Song popularity classification
+  - Eras of Rock <br>
+3. Imbalanced Learning
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  
 
 
 ## Module 2
