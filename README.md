@@ -16,36 +16,6 @@ This analysis is focused on:
 Dataset and additional info are available at: [mdeff/fma](https://github.com/mdeff/fma)
 
 ## Module 1
-1. Data Understanding & EDA<br>
-   - [tracks](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/tracks_EDA.ipynb)<br>
-   - [genres](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/genres_EDA.ipynb)<br>
-   - [features](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/features_EDA.ipynb)<br>
-   - [echonest](https://github.com/gaetanoantonicchio/DataMining-2/blob/main/src/Module%201/Data%20Understanding%20%26%20EDA/echonest_EDA.ipynb)<br>
-   - [years of rock]()<br>
-2. Classification: Decision Tree & KNN<br>
-
-   ___ **Echonest audio features** ___<br>
-  - Binary genre classification
-  - Multi genre classification
-  - Song popularity classification
-  - Years of Rock <br><br>
-    ___ **Librosa features** ____<br>
-  - Binary genre classification
-  - Multi genre classification
-  - Song popularity classification
-  - Years of Rock <br>
-3. Imbalanced Learning
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  
-
 
 ## Module 2
 
