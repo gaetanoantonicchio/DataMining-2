@@ -14,19 +14,3 @@ This analysis is focused on:
 - AI Explaianbility: LIME explainer;
 
 Dataset and additional info are available at: [mdeff/fma](https://github.com/mdeff/fma)
-
-## Module 1
-
-## Module 2
-
-
-
-
-## Module 3
-
-
-
-## Module 4
-
-
-[ Working on it ]
