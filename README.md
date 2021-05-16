@@ -9,9 +9,9 @@ This project consists in analysing and processing audio signals, employing advan
 This analysis is focused on:
 - Imbalanced learning and anomaly detection;
 - Advanced classification methods: Naive Bayes, Rule-based classifiers, Logistic Regression, SVM, Ensemble and Neural Netoworks (MLP);
-- Time series analysis;
+- Time series analysis: Motifs & Anomaly detection, Clustering, Shaplet-based classifiers;
 - Sequential Pattern Mining and Advanced Clustering: X-Means, OPTICS and Transactional Clustering;
-- Application of ethic principles: Explaianbility;
+- AI Explaianbility: LIME explainer;
 
 Dataset and additional info are available at: [mdeff/fma](https://github.com/mdeff/fma)
 
