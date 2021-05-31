@@ -1,0 +1,50 @@
+
+
+\input{presetting_page}
+
+\begin{document}
+
+    %FRONTPAGE
+    \input{title_page}
+    
+    %INDEX
+    \tableofcontents
+    \thispagestyle{empty}
+    \addtocontents{toc}{\protect\thispagestyle{empty}}
+    
+    %SETTING
+    \newpage
+    \justifying
+    
+    %INTRODUCTION
+    \setcounter{page}{1}
+    \chapter*{Introduction}
+    \input{introduction}
+  
+     %CHAPTER 1: Data Understanding
+    \chapter{Data Understanding}
+    \input{chapter1}
+    
+    %CHAPTER 2: Imbalanced Learning and Anomaly Detection
+    \chapter{Imbalanced Learning and Anomaly Detection}
+    \input{chapter2}
+    
+    %CHAPTER 3: Advanced Classification Methods
+    \chapter{Advanced Classification Methods}
+    \input{chapter3}
+    
+    %CHAPTER 4
+    \chapter{Time Series Analysis}
+    \input{chapter4}
+    
+    %CHAPTER 5
+    \chapter{Advanced Clustering, Sequential Pattern Mining \& AI Explainability }
+    \input{chapter5}
+    
+    %CONCLUSIONS
+    \chapter*{Conclusions}
+    \input{Conclusions}
+    
+\end{document}
+
+

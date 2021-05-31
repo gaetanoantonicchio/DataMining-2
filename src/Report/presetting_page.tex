@@ -1,0 +1,33 @@
+\documentclass[a4paper,11pt]{extreport}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{graphicx}
+\graphicspath{images/}
+\usepackage{amsmath}
+\usepackage{fancyvrb}
+\usepackage{subfig}
+\usepackage{ragged2e}
+\usepackage{titlesec}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{wrapfig}
+
+
+\titleformat{\chapter}{\filright\normalfont\huge\bfseries}{\thechapter}{11pt}{}
+\makeatletter
+\renewcommand\chapter{\par%
+   \thispagestyle{plain}%
+   \global\@topnum\z@
+   \@afterindentfalse
+   \secdef\@chapter\@schapter}
+\makeatother
+
+\geometry{a4paper, top=1.5 cm, bottom=1.5cm, left=1.45cm, right=1.45cm, bindingoffset=5mm}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\linespread{1.1}
+
+\titleformat{\chapter}[display]   
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{8pt}{\Huge}   
+\titlespacing*{\chapter}{0pt}{30pt}{12pt}
